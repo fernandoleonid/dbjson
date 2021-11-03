@@ -1,73 +1,20 @@
 {
-  "professor": [
-    {
-      "id": 1,
-      "nome": "Celso Furtado",
-      "cargo": "Boladão de TI",
-      "cor": "#6BD1FF",
-      "img":"https://www.memecreator.org/static/images/memes/4885650.jpg"
-    },
-    {
-      "id": 2,
-      "nome": "Luiz",
-      "cargo": "Instrutor de redes",
-      "cor": "#6BD1FF",
-      "img": "https://www.memecreator.org/static/images/memes/4929443.jpg"
-    },
-    {
-      "id": 3,
-      "nome": "Rafael",
-      "cargo": "Dev",
-      "cor": "#6BD1FF",
-      "img": "https://images2.memedroid.com/images/UPLOADED60/52a510feebba5.jpeg"
-    }
-  ],
-  "disciplinas": [
-    {
-      "id": 1,
-      "professorId": 1,
-      "titulo": "Mobile"
-    },
-    {
-      "id": 2,
-      "professorId": 2,
-      "titulo": "Cabeamento estruturado I"
-    },
-    {
-      "id": 3,
-      "professorId": 3,
-      "titulo": "aoooooahhahhahahah"
-    },
-    {
-      "id": 4,
-      "professorId": 2,
-      "titulo": "Cabeamento estruturado II"
-    },
-    {
-      "id": 5,
-      "professorId": 2,
-      "titulo": "Cabeamento estruturado III"
-    },
-    {
-      "id": 6,
-      "professorId": 2,
-      "titulo": "Cabeamento estruturado IV"
-    },
-    {
-      "id": 7,
-      "professorId": 2,
-      "titulo": "Cabeamento estruturado V"
-    },
-    {
-      "id": 8,
-      "professorId": 1,
-      "titulo": "Java"
-    },
-    {
-      "id": 9,
-      "professorId": 2,
-      "titulo": "React"
-    }
-    
-  ]
+    "jogadores": [
+        {
+            "id": 1,
+            "nome": "Fernando",
+            "senha": "123",
+            "pontosFacil": 10,
+            "pontosMedio": 20,
+            "pontosDificil": 30
+        },
+        {
+            "id": 2,
+            "nome": "leonid",
+            "senha": "123",
+            "pontosFacil": 40,
+            "pontosMedio": 50,
+            "pontosDificil": 60
+        }
+    ]
 }
